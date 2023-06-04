@@ -9,7 +9,9 @@ Um das Gesicht der Person zu identifizieren,  geben Sie den Namen, das Geburtsd
 ![Bild2](https://github.com/AbdallahMoghrabi/Gesichtserkennung/assets/104599058/b47ba37a-d256-4022-8e21-78b39a64ee19)
 
 Nach diesem Vorgang wird die Person in die Tabelle gespeichert und kann alle Informationen über die Person durch daaufklicken darstellen.
+
 ![Bild4](https://github.com/AbdallahMoghrabi/Gesichtserkennung/assets/104599058/5bea6cf8-4df4-4039-9ac0-02b5cf2dbdd5)
+
 Man kann auch die Information löschen oder aktualisieren.
 
 In der Gesichtserkennung Tabe können hier die Personen in Bildern, Videos und Webcam erkannt und deren Information gezeigt.
